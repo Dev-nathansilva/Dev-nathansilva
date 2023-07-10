@@ -8,7 +8,7 @@ No momento presente, meu foco de estudos está voltado para React.js e em Node.j
 
 Sou autodidata, em constante evolução, e em Busca da minha primeira vaga para mostrar minhas habilidades.
 
-Também sou amante de Esportes e de **Desenhar**!!! O desenho estimula minha criatividade para criar coisas novas e com qualidade, além de produzir sites ainda mais bonitos, interativos e funcionais.
+Amante de Esportes e de **Desenhar**!!! O desenho estimula minha criatividade para criar coisas novas e com qualidade, além de produzir sites ainda mais bonitos, interativos e funcionais.
 
 ☢️ [Meu portifólio](https://dev-nathansilva.github.io/Portifolio-Nathan/PORTIFOLIO/index.html)
 
