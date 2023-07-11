@@ -4,7 +4,7 @@
 
 🦊 Sou graduando no curso de Ciência da Computação pela Estácio e desenvolvedor Full Stack, entusiasta das tecnologias JAVA e JavaScript.  
 
-No momento presente, meu foco de estudos está voltado para React.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack Completo.
+No momento presente, meu foco de estudos está voltado para Spring Framework java, React.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack Completo.
 
 Sou autodidata, em constante evolução, e em Busca da minha primeira vaga para mostrar minhas habilidades.
 
