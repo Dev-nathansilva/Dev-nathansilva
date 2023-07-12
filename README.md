@@ -1,6 +1,6 @@
 
+![github-apresentação (1)](https://github.com/Dev-nathansilva/Dev-nathansilva/assets/124079997/c32ed9cf-1217-453f-ac47-7066b0db39d6)
 
-![github-apresentação](https://github.com/Dev-nathansilva/Dev-nathansilva/assets/124079997/04017a07-cb49-4068-9c71-fbb3c5c7f560)
 
 🦊 Sou graduando no curso de Ciência da Computação pela Estácio e desenvolvedor Full Stack, entusiasta das tecnologias JAVA e JavaScript.  
 
