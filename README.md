@@ -10,7 +10,7 @@ Sou autodidata, em constante evolução, e em Busca da minha primeira vaga para 
 
 Amante de Esportes e de **Desenhar**!!! O desenho estimula minha criatividade para criar coisas novas e com qualidade, além de produzir sites e aplicações ainda mais bonitos, interativos e funcionais !
 
-☢️ [Meu portifólio](https://dev-nathansilva.github.io/Portifolio-Nathan/PORTIFOLIO/index.html)
+☢️ [Meu portifólio](https://nathansilva.vercel.app/)
 
 <div align="center"> 
  
@@ -35,7 +35,7 @@ Amante de Esportes e de **Desenhar**!!! O desenho estimula minha criatividade pa
 
  ### Minhas redes sociais
 
-  <a href="https://dev-nathansilva.github.io/Portifolio-Nathan/PORTIFOLIO/index.html">
+  <a href="https://nathansilva.vercel.app/">
    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
  </a>
  <a href="https://www.linkedin.com/in/dev-nathansilva/">
