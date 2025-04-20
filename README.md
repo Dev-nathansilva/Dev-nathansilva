@@ -2,9 +2,9 @@
 ![github-apresentação (1)](https://github.com/Dev-nathansilva/Dev-nathansilva/assets/124079997/c32ed9cf-1217-453f-ac47-7066b0db39d6)
 
 
-🦊 Sou graduando no curso de Ciência da Computação pela Estácio e desenvolvedor Full Stack, entusiasta das tecnologias JAVA e JavaScript.  
+🦊 Sou graduando no curso de Ciência da Computação pela Estácio e desenvolvedor Full Stack, entusiasta das tecnologias javascript.
 
-No momento presente, meu foco de estudos está voltado para Spring Framework java, React.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack Completo.
+No momento presente, meu foco de estudos está voltado para aplicações em javascript, Next.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack Completo.
 
 Sou autodidata, em constante evolução, e em Busca da minha primeira vaga para mostrar minhas habilidades.
 
