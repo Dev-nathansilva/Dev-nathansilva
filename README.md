@@ -14,10 +14,6 @@ Amante de Esportes e de **Desenhar**!!! O desenho estimula minha criatividade pa
 
 <div align="center"> 
  
- <div>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Dev-nathansilva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=030EEB&icon_color=030EEB&text_color=c9d1d9&bg_color=0d1117"/>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-nathansilva&layout=compact&langs_count=7&hide_border=true&title_color=fff&icon_color=66cc00&text_color=fff&bg_color=0d1117"/>
- </div>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
