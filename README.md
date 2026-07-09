@@ -31,13 +31,13 @@ Amante de Esportes e de **Desenhar**!!! O desenho estimula minha criatividade pa
 
  ### Minhas redes sociais
 
-  <a href="https://nathansilva.vercel.app/">
+  <a href="https://alfadesign.framer.website/">
    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
  </a>
  <a href="https://www.linkedin.com/in/dev-nathansilva/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
-  <a href="https://www.instagram.com/oliveira_nathan1/">
+  <a href="https://www.instagram.com/alfastudiobr/">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
   <a href="https://discord.com/channels/@me">
