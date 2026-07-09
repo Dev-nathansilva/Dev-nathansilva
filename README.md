@@ -2,15 +2,15 @@
 ![github-apresentação (1)](https://github.com/Dev-nathansilva/Dev-nathansilva/assets/124079997/c32ed9cf-1217-453f-ac47-7066b0db39d6)
 
 
-🦊 Sou graduando no curso de Ciência da Computação pela Estácio e desenvolvedor Full Stack, entusiasta das tecnologias javascript.
+🦊 Estou no último semestre no curso de Ciência da Computação pela Estácio e Arquiteto e Desenvolvedor de Software Sênior com mais de 5 anos de experiência! Entusiasta das tecnologias javascript.
 
-No momento presente, meu foco de estudos está voltado para aplicações em javascript, Next.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack Completo.
+No momento presente, meu foco está voltado para aplicações ponta a ponta, infra, backend, frontend, banco de dados, automações com IA, LLMs... e etc. 
 
-Sou autodidata, em constante evolução, e em Busca da minha primeira vaga para mostrar minhas habilidades.
+Sou autodidata, em constante EVOLUÇÃO, prezando sempre excelência e competência!
 
 Amante de Esportes e de **Desenhar**!!! O desenho estimula minha criatividade para criar coisas novas e com qualidade, além de produzir sites e aplicações ainda mais bonitos, interativos e funcionais !
 
-☢️ [Meu portifólio](https://nathandev-projetos.vercel.app/)
+☢️ [Meu portifólio](https://nathandev-devnathansilvas-projects.vercel.app/)
 
 <div align="center"> 
  
